@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Trying hard enough is a Myth
+**They say, if you try hard enough you can move a mountain. Then _what about the thousands who couldn't_**
